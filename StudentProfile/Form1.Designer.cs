@@ -46,11 +46,11 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(174, 265);
+            this.label2.Location = new System.Drawing.Point(289, 277);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(376, 29);
+            this.label2.Size = new System.Drawing.Size(166, 29);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Contact Number: 09171234567.";
+            this.label2.Text = "Year Level: 2";
             // 
             // Form1
             // 
